@@ -5,11 +5,7 @@ Simplest Redux example for beginners
 
 1-Criar o store
 
-2-Envolver o <App/> com o <Provider> passando store pra ele:
-  
-<Provider store={store}>
-  <App/>
-</Provider>
+2-Envolver o App com o Provider passando store pra ele:
 
 3-Criar os Reducers e combina-los no index.js da pasta reducers
 
@@ -21,11 +17,7 @@ Simplest Redux example for beginners
 
 1-Create the store
 
-2-Envolve <App/> with <Provider> passing store:
-  
-<Provider store={store}>
-  <App/>
-</Provider>
+2-Envolve App with passing store:
 
 3-Create the Reducers and combine them at index.js of reducers folder
 
