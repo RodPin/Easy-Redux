@@ -13,6 +13,8 @@ Simplest Redux example for beginners
 
 5- Usar o this.context.store.subscribe({})  no componentWillMount(){} para ler o estado da store e depois passa-lo por props
 
+6- declarar o static propstyles onde for usar o this.context.store
+
 ----------------ENGLISH
 
 1-Create the store
@@ -25,3 +27,5 @@ Simplest Redux example for beginners
 
 5- Use this.context.store.subscribe({}) at componentWillMount(){} (at <App/>)to read the store state and pass to other components
 through props
+
+6- declare static propstyles when using this.context.store
