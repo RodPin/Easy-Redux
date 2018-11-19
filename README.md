@@ -29,3 +29,10 @@ Simplest Redux example for beginners
 through props
 
 6- declare static propstyles when using this.context.store
+
+
+
+
+WITH MAPSTATETOPROPS:
+
+1-CREATE A CONTAINER THAT WILL RECEIVE THE COMPONENT AND THE STATE FROM THE STORE.
